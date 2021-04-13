@@ -21,6 +21,149 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/hero\/header.jpg" : {
+      "ft" : 16384,
+      "iS" : 591963,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hero\/header.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/images\/images1.jpg" : {
+      "ft" : 16384,
+      "iS" : 463600,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/images\/images1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/images\/images2.jpg" : {
+      "ft" : 16384,
+      "iS" : 115613,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/images\/images2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/join\/join1.png" : {
+      "ft" : 32768,
+      "iS" : 20552,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/join\/join1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/join\/join2.png" : {
+      "ft" : 32768,
+      "iS" : 11532,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/join\/join2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio1.jpg" : {
+      "ft" : 16384,
+      "iS" : 59541,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio2.jpg" : {
+      "ft" : 16384,
+      "iS" : 44600,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio3.jpg" : {
+      "ft" : 16384,
+      "iS" : 28428,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio4.jpg" : {
+      "ft" : 16384,
+      "iS" : 29542,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio4.png" : {
+      "ft" : 32768,
+      "iS" : 48174,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio4.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/studio\/studio5.jpg" : {
+      "ft" : 16384,
+      "iS" : 63202,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/studio\/studio5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -48,6 +191,86 @@
       "oAP" : "\/design\/structure-tags.sketch",
       "oF" : 0
     },
+    "\/dev\/content\/classes.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/classes.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/classes.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/classes.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/hero.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/images.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/images.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/images.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/join.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/join.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/join.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/join.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/studio.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/studio.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/studio.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/studio.html",
+      "oF" : 0
+    },
+    "\/dev\/global\/footer.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/global\/footer.html",
+      "oF" : 0
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -72,6 +295,14 @@
       "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
+    "\/dev\/global\/hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/global\/hero.html",
+      "oF" : 0
+    },
     "\/dev\/global\/scripts.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -80,13 +311,21 @@
       "oAP" : "\/dev\/global\/scripts.html",
       "oF" : 0
     },
+    "\/dev\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/index.html",
+      "oF" : 0
+    },
     "\/dev\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
-      "oF" : 2
+      "oAP" : "\/dev\/index.html",
+      "oF" : 0
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -262,7 +501,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 639424315.56556404,
-    "displayValue" : "web-2-in-class",
+    "displayValue" : "Starr Dance",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-glace",
     "iconImageWasSetByUser" : 0
